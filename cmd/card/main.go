@@ -12,6 +12,6 @@ func main() {
 	fmt.Printf("Группа: %s\n", group)
 	fmt.Printf("Курс: %s\n", course)
 	fmt.Println("Завершено работ:", count)
-	fmt.Printf("Интререс к бэкэнду %t\n", interest)
+	fmt.Printf("Интререс к бэкэнду: %t\n", interest)
 
 }
